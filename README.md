@@ -12,7 +12,4 @@ Here are some screeenshots of the application showcasing the Booking functionali
 
 ![little lemon website table booking](/src/images/github-cover.png)
 
-
-# LemonWebSAyfas-
-# LemonWebsite
-# LemonWeb
+![](gif.gif)
